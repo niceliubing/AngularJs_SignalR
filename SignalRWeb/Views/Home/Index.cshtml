@@ -1,0 +1,33 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div ng-app="signal">
+    <div style=" margin-top: 50px;" ng-controller="messageCtr">
+        <div class="row">
+            <div class="col-md-4">
+                <input type="text" ng-model="message" name="msg" placeholder="message hint" />
+            </div>
+            <div class="col-md-2">
+                <button class="btn btn-primary" ng-click="sendMessage()">Send</button>
+            </div>
+            <div class="col-md-6">
+
+            </div>
+        </div>
+
+
+        <div class="row">
+            <ul>
+                <li ng-repeat="item in messages">{{item}}</li>
+            </ul>
+        </div>
+    </div>
+</div>
+    @section scripts {
+        <script src="~/Scripts/jquery.signalR-2.2.0.min.js"></script>
+        <script src="~/SignalR/hubs"></script>
+        <script src="~/Scripts/angular.min.js"></script>
+<script src="~/Scripts/signalR.js"></script>
+        <script src="~/Scripts/app.js"></script>
+    }

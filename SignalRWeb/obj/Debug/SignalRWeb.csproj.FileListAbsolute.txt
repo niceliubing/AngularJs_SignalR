@@ -1,0 +1,252 @@
+c:\users\bliu\documents\visual studio 2013\Projects\SignalRWeb\SignalRWeb\bin\SignalRWeb.dll.config
+c:\users\bliu\documents\visual studio 2013\Projects\SignalRWeb\SignalRWeb\bin\SignalRWeb.dll
+c:\users\bliu\documents\visual studio 2013\Projects\SignalRWeb\SignalRWeb\bin\SignalRWeb.pdb
+c:\users\bliu\documents\visual studio 2013\Projects\SignalRWeb\SignalRWeb\bin\Antlr3.Runtime.dll
+c:\users\bliu\documents\visual studio 2013\Projects\SignalRWeb\SignalRWeb\bin\EntityFramework.dll
+c:\users\bliu\documents\visual studio 2013\Projects\SignalRWeb\SignalRWeb\bin\EntityFramework.SqlServer.dll
+c:\users\bliu\documents\visual studio 2013\Projects\SignalRWeb\SignalRWeb\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\bliu\documents\visual studio 2013\Projects\SignalRWeb\SignalRWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\bliu\documents\visual studio 2013\Projects\SignalRWeb\SignalRWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\bliu\documents\visual studio 2013\Projects\SignalRWeb\SignalRWeb\bin\Microsoft.AspNet.SignalR.Client.dll
+c:\users\bliu\documents\visual studio 2013\Projects\SignalRWeb\SignalRWeb\bin\Microsoft.AspNet.SignalR.Core.dll
+c:\users\bliu\documents\visual studio 2013\Projects\SignalRWeb\SignalRWeb\bin\Microsoft.AspNet.SignalR.Owin.dll
+c:\users\bliu\documents\visual studio 2013\Projects\SignalRWeb\SignalRWeb\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+c:\users\bliu\documents\visual studio 2013\Projects\SignalRWeb\SignalRWeb\bin\Microsoft.Owin.dll
+c:\users\bliu\documents\visual studio 2013\Projects\SignalRWeb\SignalRWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\bliu\documents\visual studio 2013\Projects\SignalRWeb\SignalRWeb\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\bliu\documents\visual studio 2013\Projects\SignalRWeb\SignalRWeb\bin\Microsoft.Owin.Security.dll
+c:\users\bliu\documents\visual studio 2013\Projects\SignalRWeb\SignalRWeb\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\bliu\documents\visual studio 2013\Projects\SignalRWeb\SignalRWeb\bin\Microsoft.Owin.Security.Google.dll
+c:\users\bliu\documents\visual studio 2013\Projects\SignalRWeb\SignalRWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\bliu\documents\visual studio 2013\Projects\SignalRWeb\SignalRWeb\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\bliu\documents\visual studio 2013\Projects\SignalRWeb\SignalRWeb\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\bliu\documents\visual studio 2013\Projects\SignalRWeb\SignalRWeb\bin\Microsoft.Web.Infrastructure.dll
+c:\users\bliu\documents\visual studio 2013\Projects\SignalRWeb\SignalRWeb\bin\Newtonsoft.Json.dll
+c:\users\bliu\documents\visual studio 2013\Projects\SignalRWeb\SignalRWeb\bin\Owin.dll
+c:\users\bliu\documents\visual studio 2013\Projects\SignalRWeb\SignalRWeb\bin\System.Web.Helpers.dll
+c:\users\bliu\documents\visual studio 2013\Projects\SignalRWeb\SignalRWeb\bin\System.Web.Mvc.dll
+c:\users\bliu\documents\visual studio 2013\Projects\SignalRWeb\SignalRWeb\bin\System.Web.Optimization.dll
+c:\users\bliu\documents\visual studio 2013\Projects\SignalRWeb\SignalRWeb\bin\System.Web.Razor.dll
+c:\users\bliu\documents\visual studio 2013\Projects\SignalRWeb\SignalRWeb\bin\System.Web.WebPages.Deployment.dll
+c:\users\bliu\documents\visual studio 2013\Projects\SignalRWeb\SignalRWeb\bin\System.Web.WebPages.dll
+c:\users\bliu\documents\visual studio 2013\Projects\SignalRWeb\SignalRWeb\bin\System.Web.WebPages.Razor.dll
+c:\users\bliu\documents\visual studio 2013\Projects\SignalRWeb\SignalRWeb\bin\WebGrease.dll
+c:\users\bliu\documents\visual studio 2013\Projects\SignalRWeb\SignalRWeb\bin\Microsoft.AspNet.SignalR.Client.xml
+c:\users\bliu\documents\visual studio 2013\Projects\SignalRWeb\SignalRWeb\bin\Microsoft.AspNet.SignalR.Core.xml
+c:\users\bliu\documents\visual studio 2013\Projects\SignalRWeb\SignalRWeb\bin\Microsoft.AspNet.SignalR.Owin.xml
+c:\users\bliu\documents\visual studio 2013\Projects\SignalRWeb\SignalRWeb\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+c:\users\bliu\documents\visual studio 2013\Projects\SignalRWeb\SignalRWeb\bin\System.Web.Helpers.xml
+c:\users\bliu\documents\visual studio 2013\Projects\SignalRWeb\SignalRWeb\bin\System.Web.Mvc.xml
+c:\users\bliu\documents\visual studio 2013\Projects\SignalRWeb\SignalRWeb\bin\System.Web.Optimization.xml
+c:\users\bliu\documents\visual studio 2013\Projects\SignalRWeb\SignalRWeb\bin\System.Web.Razor.xml
+c:\users\bliu\documents\visual studio 2013\Projects\SignalRWeb\SignalRWeb\bin\System.Web.WebPages.xml
+c:\users\bliu\documents\visual studio 2013\Projects\SignalRWeb\SignalRWeb\bin\System.Web.WebPages.Deployment.xml
+c:\users\bliu\documents\visual studio 2013\Projects\SignalRWeb\SignalRWeb\bin\System.Web.WebPages.Razor.xml
+c:\users\bliu\documents\visual studio 2013\Projects\SignalRWeb\SignalRWeb\bin\Antlr3.Runtime.pdb
+c:\users\bliu\documents\visual studio 2013\Projects\SignalRWeb\SignalRWeb\bin\Newtonsoft.Json.xml
+c:\users\bliu\documents\visual studio 2013\Projects\SignalRWeb\SignalRWeb\bin\EntityFramework.xml
+c:\users\bliu\documents\visual studio 2013\Projects\SignalRWeb\SignalRWeb\bin\EntityFramework.SqlServer.xml
+c:\users\bliu\documents\visual studio 2013\Projects\SignalRWeb\SignalRWeb\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\bliu\documents\visual studio 2013\Projects\SignalRWeb\SignalRWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\bliu\documents\visual studio 2013\Projects\SignalRWeb\SignalRWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\bliu\documents\visual studio 2013\Projects\SignalRWeb\SignalRWeb\bin\Microsoft.Owin.xml
+c:\users\bliu\documents\visual studio 2013\Projects\SignalRWeb\SignalRWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\bliu\documents\visual studio 2013\Projects\SignalRWeb\SignalRWeb\bin\Microsoft.Owin.Security.xml
+c:\users\bliu\documents\visual studio 2013\Projects\SignalRWeb\SignalRWeb\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\bliu\documents\visual studio 2013\Projects\SignalRWeb\SignalRWeb\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\bliu\documents\visual studio 2013\Projects\SignalRWeb\SignalRWeb\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\bliu\documents\visual studio 2013\Projects\SignalRWeb\SignalRWeb\bin\Microsoft.Owin.Security.Google.xml
+c:\users\bliu\documents\visual studio 2013\Projects\SignalRWeb\SignalRWeb\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\bliu\documents\visual studio 2013\Projects\SignalRWeb\SignalRWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\bliu\documents\visual studio 2013\Projects\SignalRWeb\SignalRWeb\obj\Debug\SignalRWeb.dll
+c:\users\bliu\documents\visual studio 2013\Projects\SignalRWeb\SignalRWeb\obj\Debug\SignalRWeb.pdb
+c:\users\bliu\documents\visual studio 2013\Projects\SignalRWeb\SignalRWeb\obj\Debug\SignalRWeb.csprojResolveAssemblyReference.cache
+E:\TFS\TEST\Bing\SignalRWeb\SignalRWeb\bin\SignalRWeb.dll.config
+E:\TFS\TEST\Bing\SignalRWeb\SignalRWeb\bin\SignalRWeb.dll
+E:\TFS\TEST\Bing\SignalRWeb\SignalRWeb\bin\SignalRWeb.pdb
+E:\TFS\TEST\Bing\SignalRWeb\SignalRWeb\bin\Antlr3.Runtime.dll
+E:\TFS\TEST\Bing\SignalRWeb\SignalRWeb\bin\EntityFramework.dll
+E:\TFS\TEST\Bing\SignalRWeb\SignalRWeb\bin\EntityFramework.SqlServer.dll
+E:\TFS\TEST\Bing\SignalRWeb\SignalRWeb\bin\Microsoft.AspNet.Identity.Core.dll
+E:\TFS\TEST\Bing\SignalRWeb\SignalRWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\TFS\TEST\Bing\SignalRWeb\SignalRWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\TFS\TEST\Bing\SignalRWeb\SignalRWeb\bin\Microsoft.AspNet.SignalR.Client.dll
+E:\TFS\TEST\Bing\SignalRWeb\SignalRWeb\bin\Microsoft.AspNet.SignalR.Core.dll
+E:\TFS\TEST\Bing\SignalRWeb\SignalRWeb\bin\Microsoft.AspNet.SignalR.Owin.dll
+E:\TFS\TEST\Bing\SignalRWeb\SignalRWeb\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+E:\TFS\TEST\Bing\SignalRWeb\SignalRWeb\bin\Microsoft.Owin.dll
+E:\TFS\TEST\Bing\SignalRWeb\SignalRWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\TFS\TEST\Bing\SignalRWeb\SignalRWeb\bin\Microsoft.Owin.Security.Cookies.dll
+E:\TFS\TEST\Bing\SignalRWeb\SignalRWeb\bin\Microsoft.Owin.Security.dll
+E:\TFS\TEST\Bing\SignalRWeb\SignalRWeb\bin\Microsoft.Owin.Security.Facebook.dll
+E:\TFS\TEST\Bing\SignalRWeb\SignalRWeb\bin\Microsoft.Owin.Security.Google.dll
+E:\TFS\TEST\Bing\SignalRWeb\SignalRWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\TFS\TEST\Bing\SignalRWeb\SignalRWeb\bin\Microsoft.Owin.Security.OAuth.dll
+E:\TFS\TEST\Bing\SignalRWeb\SignalRWeb\bin\Microsoft.Owin.Security.Twitter.dll
+E:\TFS\TEST\Bing\SignalRWeb\SignalRWeb\bin\Microsoft.Web.Infrastructure.dll
+E:\TFS\TEST\Bing\SignalRWeb\SignalRWeb\bin\Newtonsoft.Json.dll
+E:\TFS\TEST\Bing\SignalRWeb\SignalRWeb\bin\Owin.dll
+E:\TFS\TEST\Bing\SignalRWeb\SignalRWeb\bin\System.Web.Helpers.dll
+E:\TFS\TEST\Bing\SignalRWeb\SignalRWeb\bin\System.Web.Mvc.dll
+E:\TFS\TEST\Bing\SignalRWeb\SignalRWeb\bin\System.Web.Optimization.dll
+E:\TFS\TEST\Bing\SignalRWeb\SignalRWeb\bin\System.Web.Razor.dll
+E:\TFS\TEST\Bing\SignalRWeb\SignalRWeb\bin\System.Web.WebPages.Deployment.dll
+E:\TFS\TEST\Bing\SignalRWeb\SignalRWeb\bin\System.Web.WebPages.dll
+E:\TFS\TEST\Bing\SignalRWeb\SignalRWeb\bin\System.Web.WebPages.Razor.dll
+E:\TFS\TEST\Bing\SignalRWeb\SignalRWeb\bin\WebGrease.dll
+E:\TFS\TEST\Bing\SignalRWeb\SignalRWeb\bin\Microsoft.AspNet.SignalR.Client.xml
+E:\TFS\TEST\Bing\SignalRWeb\SignalRWeb\bin\Microsoft.AspNet.SignalR.Core.xml
+E:\TFS\TEST\Bing\SignalRWeb\SignalRWeb\bin\Microsoft.AspNet.SignalR.Owin.xml
+E:\TFS\TEST\Bing\SignalRWeb\SignalRWeb\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+E:\TFS\TEST\Bing\SignalRWeb\SignalRWeb\bin\System.Web.Helpers.xml
+E:\TFS\TEST\Bing\SignalRWeb\SignalRWeb\bin\System.Web.Mvc.xml
+E:\TFS\TEST\Bing\SignalRWeb\SignalRWeb\bin\System.Web.Optimization.xml
+E:\TFS\TEST\Bing\SignalRWeb\SignalRWeb\bin\System.Web.Razor.xml
+E:\TFS\TEST\Bing\SignalRWeb\SignalRWeb\bin\System.Web.WebPages.xml
+E:\TFS\TEST\Bing\SignalRWeb\SignalRWeb\bin\System.Web.WebPages.Deployment.xml
+E:\TFS\TEST\Bing\SignalRWeb\SignalRWeb\bin\System.Web.WebPages.Razor.xml
+E:\TFS\TEST\Bing\SignalRWeb\SignalRWeb\bin\Antlr3.Runtime.pdb
+E:\TFS\TEST\Bing\SignalRWeb\SignalRWeb\bin\Newtonsoft.Json.xml
+E:\TFS\TEST\Bing\SignalRWeb\SignalRWeb\bin\EntityFramework.xml
+E:\TFS\TEST\Bing\SignalRWeb\SignalRWeb\bin\EntityFramework.SqlServer.xml
+E:\TFS\TEST\Bing\SignalRWeb\SignalRWeb\bin\Microsoft.AspNet.Identity.Core.xml
+E:\TFS\TEST\Bing\SignalRWeb\SignalRWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\TFS\TEST\Bing\SignalRWeb\SignalRWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\TFS\TEST\Bing\SignalRWeb\SignalRWeb\bin\Microsoft.Owin.xml
+E:\TFS\TEST\Bing\SignalRWeb\SignalRWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\TFS\TEST\Bing\SignalRWeb\SignalRWeb\bin\Microsoft.Owin.Security.xml
+E:\TFS\TEST\Bing\SignalRWeb\SignalRWeb\bin\Microsoft.Owin.Security.Facebook.xml
+E:\TFS\TEST\Bing\SignalRWeb\SignalRWeb\bin\Microsoft.Owin.Security.Cookies.xml
+E:\TFS\TEST\Bing\SignalRWeb\SignalRWeb\bin\Microsoft.Owin.Security.OAuth.xml
+E:\TFS\TEST\Bing\SignalRWeb\SignalRWeb\bin\Microsoft.Owin.Security.Google.xml
+E:\TFS\TEST\Bing\SignalRWeb\SignalRWeb\bin\Microsoft.Owin.Security.Twitter.xml
+E:\TFS\TEST\Bing\SignalRWeb\SignalRWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\TFS\TEST\Bing\SignalRWeb\SignalRWeb\obj\Debug\SignalRWeb.csprojResolveAssemblyReference.cache
+E:\TFS\TEST\Bing\SignalRWeb\SignalRWeb\obj\Debug\SignalRWeb.dll
+E:\TFS\TEST\Bing\SignalRWeb\SignalRWeb\obj\Debug\SignalRWeb.pdb
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\SignalRWeb\bin\SignalRWeb.dll.config
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\SignalRWeb\bin\SignalRWeb.dll
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\SignalRWeb\bin\SignalRWeb.pdb
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\SignalRWeb\bin\Antlr3.Runtime.dll
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\SignalRWeb\bin\EntityFramework.dll
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\SignalRWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\SignalRWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\SignalRWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\SignalRWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\SignalRWeb\bin\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\SignalRWeb\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\SignalRWeb\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\SignalRWeb\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\SignalRWeb\bin\Microsoft.Owin.dll
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\SignalRWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\SignalRWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\SignalRWeb\bin\Microsoft.Owin.Security.dll
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\SignalRWeb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\SignalRWeb\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\SignalRWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\SignalRWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\SignalRWeb\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\SignalRWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\SignalRWeb\bin\Newtonsoft.Json.dll
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\SignalRWeb\bin\Owin.dll
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\SignalRWeb\bin\System.Web.Helpers.dll
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\SignalRWeb\bin\System.Web.Mvc.dll
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\SignalRWeb\bin\System.Web.Optimization.dll
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\SignalRWeb\bin\System.Web.Razor.dll
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\SignalRWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\SignalRWeb\bin\System.Web.WebPages.dll
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\SignalRWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\SignalRWeb\bin\WebGrease.dll
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\SignalRWeb\bin\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\SignalRWeb\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\SignalRWeb\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\SignalRWeb\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\SignalRWeb\bin\System.Web.Helpers.xml
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\SignalRWeb\bin\System.Web.Mvc.xml
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\SignalRWeb\bin\System.Web.Optimization.xml
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\SignalRWeb\bin\System.Web.Razor.xml
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\SignalRWeb\bin\System.Web.WebPages.xml
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\SignalRWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\SignalRWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\SignalRWeb\bin\Antlr3.Runtime.pdb
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\SignalRWeb\bin\Newtonsoft.Json.xml
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\SignalRWeb\bin\EntityFramework.xml
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\SignalRWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\SignalRWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\SignalRWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\SignalRWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\SignalRWeb\bin\Microsoft.Owin.xml
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\SignalRWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\SignalRWeb\bin\Microsoft.Owin.Security.xml
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\SignalRWeb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\SignalRWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\SignalRWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\SignalRWeb\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\SignalRWeb\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\SignalRWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\SignalRWeb\obj\Debug\SignalRWeb.csprojResolveAssemblyReference.cache
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\SignalRWeb\obj\Debug\SignalRWeb.dll
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\SignalRWeb\obj\Debug\SignalRWeb.pdb
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\bin\SignalRWeb.dll.config
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\bin\SignalRWeb.dll
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\bin\SignalRWeb.pdb
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\bin\Antlr3.Runtime.dll
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\bin\EntityFramework.dll
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\bin\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\bin\Microsoft.Owin.dll
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\bin\Microsoft.Owin.Security.dll
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\bin\Newtonsoft.Json.dll
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\bin\Owin.dll
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\bin\System.Web.Helpers.dll
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\bin\System.Web.Mvc.dll
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\bin\System.Web.Optimization.dll
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\bin\System.Web.Razor.dll
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\bin\System.Web.WebPages.dll
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\bin\WebGrease.dll
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\bin\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\bin\System.Web.Helpers.xml
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\bin\System.Web.Mvc.xml
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\bin\System.Web.Optimization.xml
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\bin\System.Web.Razor.xml
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\bin\System.Web.WebPages.xml
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\bin\Antlr3.Runtime.pdb
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\bin\Newtonsoft.Json.xml
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\bin\EntityFramework.xml
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\bin\Microsoft.Owin.xml
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\bin\Microsoft.Owin.Security.xml
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\obj\Debug\SignalRWeb.csprojResolveAssemblyReference.cache
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\obj\Debug\SignalRWeb.dll
+C:\Users\bliu\Documents\GitHub\SignalR_AngularJs\SignalRWeb\obj\Debug\SignalRWeb.pdb
